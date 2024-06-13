@@ -1,0 +1,445 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<link rel="shortcut icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png" type="image/x-icon">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=10; chrome=1;">
+<meta name="fragment" content="!">
+<meta name="viewport" content="width=device-width">
+<base target="_blank">
+<title>The Campus Connect-SNIST</title>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400|Neucha:700,400">
+
+<link href='/static/forms/client/css/96176802-formview_st_ltr.css' type='text/css' rel='stylesheet'>
+<style type="text/css">
+body {
+  background-color: rgb(235,250,250);
+  background-image: url('//ssl.gstatic.com/docs/forms/themes/images/v1/5598637ef0c5488d6043460bf30845fdb4e9b344629474c751d12267df76735c/homework-bg.png');
+  background-repeat: repeat;
+  background-position: left top;
+}
+
+.ss-form-container, .ss-resp-card {
+  background-color: rgb(255,255,255);
+}
+
+.ss-footer, .ss-response-footer {
+  background-color: rgb(255,255,255);
+}
+
+.ss-grid-row-odd {
+  background-color: rgb(242,242,242);
+}
+
+.ss-form-container, .ss-resp-card {
+  border-color: rgb(222,222,222);
+}
+
+.ss-form-title {
+  text-align: left;
+}
+
+.ss-form-title[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-form-desc {
+  text-align: left;
+}
+
+.ss-form-desc[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-header-image-container {
+  height: auto;
+  text-align: center;
+}
+
+.ss-header-image-image {
+  background-image: url('//ssl.gstatic.com/docs/forms/themes/images/v1/5598637ef0c5488d6043460bf30845fdb4e9b344629474c751d12267df76735c/writing_header.jpg');
+}
+
+.ss-header-image-sizer {
+  padding-top: 29.787%;
+}
+
+.ss-item {
+  font-size: 1.250rem;
+}
+
+.ss-choices {
+  font-size: 1.000rem;
+}
+
+body {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-record-username-message {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-form-title {
+  font-family: "Neucha";
+  color: rgb(73,164,143);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-confirmation {
+  font-family: "Neucha";
+  color: rgb(0,138,111);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-page-title, .ss-section-title {
+  font-family: "Neucha";
+  color: rgb(73,164,143);
+  font-weight: 400;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-form-desc, .ss-page-description, .ss-section-description {
+  font-family: "Roboto";
+  color: rgb(150,150,150);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-resp-content {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-q-title {
+  font-family: "Neucha";
+  color: rgb(73,164,143);
+  font-weight: 700;
+  font-size: 1.250rem;
+  font-style: normal;
+}
+
+.ss-embeddable-object-container .ss-q-title {
+  font-family: "Neucha";
+  color: rgb(73,164,143);
+  font-weight: 700;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-q-help, .ss-q-time-hint {
+  font-family: "Roboto";
+  color: rgb(130,130,130);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-choice-label, .video-secondary-text, .ss-gridrow-leftlabel, .ss-gridnumber, .ss-scalenumber, .ss-leftlabel, .ss-rightlabel {
+  font-family: "Roboto";
+  color: rgb(90,90,90);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.error-message, .required-message, .ss-required-asterisk {
+  font-family: "Roboto";
+  color: rgb(196,59,29);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-send-email-receipt {
+  font-family: "Neucha";
+  color: rgb(0,138,111);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-password-warning {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: italic;
+}
+
+.disclaimer {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 0.850rem;
+  font-style: normal;
+}
+
+.ss-footer-content {
+  font-family: "Arial";
+  color: rgb(90,90,90);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.progress-label {
+  font-family: "Roboto";
+  color: rgb(130,130,130);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+a:link {
+  color: rgb(0,0,238);
+}
+
+a:visited {
+  color: rgb(85,26,139);
+}
+
+a:active {
+  color: rgb(252,0,0);
+}
+
+input[type='text'], input:not([type]), textarea {
+  font-size: 1.000rem;
+}
+
+.error, .required, .errorbox-bad {
+  border-color: rgb(196,59,29);
+}
+
+.jfk-progressBar-nonBlocking .progress-bar-thumb {
+  background-color: rgb(130,130,130);
+}
+
+.ss-logo-image {
+  background-image: url('//ssl.gstatic.com/docs/forms/forms_logo_small_dark.png');
+  background-size: 108px 21px;
+  width: 108px;
+  height: 21px;
+}
+
+@media screen and (-webkit-device-pixel-ratio: 2) {
+.ss-logo-image {
+  background-image: url('//ssl.gstatic.com/docs/forms/forms_logo_small_dark_2x.png');
+}
+}
+
+</style>
+
+
+<link href='/static/forms/client/css/2588955203-mobile_formview_st_ltr.css' type='text/css' rel='stylesheet' media='screen and (max-device-width: 721px)'>
+
+<script type="text/javascript">
+          /**
+ * @license
+ *! H5F
+ * https://github.com/ryanseddon/H5F/
+ * Copyright (c) Ryan Seddon | Licensed MIT
+ */
+
+(function(e,t){"function"==typeof define&&define.amd?define(t):e.H5F=t()})(this,function(){var e,t,a,i,n,r,s,l,u,o,c,d,v,f,p,m,h,g,b,y,w,C,N,A,E,$,k=document,x=k.createElement("input"),q=/^[a-zA-Z0-9.!#$%&'*+-\/=?\^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/,M=/[a-z][\-\.+a-z]*:\/\//i,L=/^(input|select|textarea)$/i;return r=function(e,t){var a=!e.nodeType||!1,i={validClass:"valid",invalidClass:"error",requiredClass:"required",placeholderClass:"placeholder"};if("object"==typeof t)for(var r in i)t[r]===void 0&&(t[r]=i[r]);if(n=t||i,a)for(var l=0,u=e.length;u>l;l++)s(e[l]);else s(e)},s=function(a){var i,n=a.elements,r=n.length,s=!!a.attributes.novalidate;if(b(a,"invalid",u,!0),b(a,"blur",u,!0),b(a,"input",u,!0),b(a,"keyup",u,!0),b(a,"focus",u,!0),b(a,"change",u,!0),b(a,"click",o,!0),b(a,"submit",function(i){e=!0,t||s||a.checkValidity()||w(i)},!1),!v())for(a.checkValidity=function(){return c(a)};r--;)i=!!n[r].attributes.required,"fieldset"!==n[r].nodeName.toLowerCase()&&l(n[r])},l=function(e){var t=e,a=g(t),n={type:t.getAttribute("type"),pattern:t.getAttribute("pattern"),placeholder:t.getAttribute("placeholder")},r=/^(email|url)$/i,s=/^(input|keyup)$/i,l=r.test(n.type)?n.type:n.pattern?n.pattern:!1,u=f(t,l),o=m(t,"step"),v=m(t,"min"),h=m(t,"max"),b=!(""===t.validationMessage||void 0===t.validationMessage);t.checkValidity=function(){return c.call(this,t)},t.setCustomValidity=function(e){d.call(t,e)},t.validity={valueMissing:a,patternMismatch:u,rangeUnderflow:v,rangeOverflow:h,stepMismatch:o,customError:b,valid:!(a||u||o||v||h||b)},n.placeholder&&!s.test(i)&&p(t)},u=function(e){var t=C(e)||e,a=/^(input|keyup|focusin|focus|change)$/i,r=/^(submit|image|button|reset)$/i,s=/^(checkbox|radio)$/i,o=!0;!L.test(t.nodeName)||r.test(t.type)||r.test(t.nodeName)||(i=e.type,v()||l(t),t.validity.valid&&(""!==t.value||s.test(t.type))||t.value!==t.getAttribute("placeholder")&&t.validity.valid?(A(t,[n.invalidClass,n.requiredClass]),N(t,n.validClass)):a.test(i)?t.validity.valueMissing&&A(t,[n.requiredClass,n.invalidClass,n.validClass]):t.validity.valueMissing?(A(t,[n.invalidClass,n.validClass]),N(t,n.requiredClass)):t.validity.valid||(A(t,[n.validClass,n.requiredClass]),N(t,n.invalidClass)),"input"===i&&o&&(y(t.form,"keyup",u,!0),o=!1))},c=function(t){var a,i,n,r,s=!1;if("form"===t.nodeName.toLowerCase()){a=t.elements;for(var l=0,o=a.length;o>l;l++)i=a[l],n=!!i.attributes.required,r=!!i.attributes.pattern,"fieldset"!==i.nodeName.toLowerCase()&&(n||r&&n)&&(u(i),i.validity.valid||s||(e&&i.focus(),s=!0));return!s}return u(t),t.validity.valid},d=function(e){var t=this;t.validationMessage=e},o=function(e){var a=C(e);a.attributes.formnovalidate&&"submit"===a.type&&(t=!0)},v=function(){return E(x,"validity")&&E(x,"checkValidity")},f=function(e,t){if("email"===t)return!q.test(e.value);if("url"===t)return!M.test(e.value);if(t){var i=e.getAttribute("placeholder"),n=e.value;return a=RegExp("^(?:"+t+")$"),n===i?!1:""===n?!1:!a.test(e.value)}return!1},p=function(e){var t={placeholder:e.getAttribute("placeholder")},a=/^(focus|focusin|submit)$/i,r=/^(input|textarea)$/i,s=/^password$/i,l=!!("placeholder"in x);l||!r.test(e.nodeName)||s.test(e.type)||(""!==e.value||a.test(i)?e.value===t.placeholder&&a.test(i)&&(e.value="",A(e,n.placeholderClass)):(e.value=t.placeholder,b(e.form,"submit",function(){i="submit",p(e)},!0),N(e,n.placeholderClass)))},m=function(e,t){var a=parseInt(e.getAttribute("min"),10)||0,i=parseInt(e.getAttribute("max"),10)||!1,n=parseInt(e.getAttribute("step"),10)||1,r=parseInt(e.value,10),s=(r-a)%n;return g(e)||isNaN(r)?"number"===e.getAttribute("type")?!0:!1:"step"===t?e.getAttribute("step")?0!==s:!1:"min"===t?e.getAttribute("min")?a>r:!1:"max"===t?e.getAttribute("max")?r>i:!1:void 0},h=function(e){var t=!!e.attributes.required;return t?g(e):!1},g=function(e){var t=e.getAttribute("placeholder"),a=/^(checkbox|radio)$/i,i=!!e.attributes.required;return!(!i||""!==e.value&&e.value!==t&&(!a.test(e.type)||$(e)))},b=function(e,t,a,i){E(window,"addEventListener")?e.addEventListener(t,a,i):E(window,"attachEvent")&&window.event!==void 0&&("blur"===t?t="focusout":"focus"===t&&(t="focusin"),e.attachEvent("on"+t,a))},y=function(e,t,a,i){E(window,"removeEventListener")?e.removeEventListener(t,a,i):E(window,"detachEvent")&&window.event!==void 0&&e.detachEvent("on"+t,a)},w=function(e){e=e||window.event,e.stopPropagation&&e.preventDefault?(e.stopPropagation(),e.preventDefault()):(e.cancelBubble=!0,e.returnValue=!1)},C=function(e){return e=e||window.event,e.target||e.srcElement},N=function(e,t){var a;e.className?(a=RegExp("(^|\\s)"+t+"(\\s|$)"),a.test(e.className)||(e.className+=" "+t)):e.className=t},A=function(e,t){var a,i,n="object"==typeof t?t.length:1,r=n;if(e.className)if(e.className===t)e.className="";else for(;n--;)a=RegExp("(^|\\s)"+(r>1?t[n]:t)+"(\\s|$)"),i=e.className.match(a),i&&3===i.length&&(e.className=e.className.replace(a,i[1]&&i[2]?" ":""))},E=function(e,t){var a=typeof e[t],i=RegExp("^function|object$","i");return!!(i.test(a)&&e[t]||"unknown"===a)},$=function(e){for(var t=document.getElementsByName(e.name),a=0;t.length>a;a++)if(t[a].checked)return!0;return!1},{setup:r}});
+
+        </script>
+<link rel="alternate" type="text/xml+oembed" href="https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/oembed?url=https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/viewform&amp;format=xml">
+<meta property="og:title" content="The Campus Connect-SNIST"><meta property="og:type" content="article"><meta property="og:site_name" content="Google Docs"><meta property="og:url" content="https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/viewform"><meta property="og:image" content="https://ssl.gstatic.com/docs/forms/social/social-forms.png"><meta property="og:image:width" content="90"><meta property="og:image:height" content="90">
+</head>
+<body dir="ltr" class="ss-base-body"><div itemscope itemtype="http://schema.org/CreativeWork/FormObject"><meta itemprop="name" content="The Campus Connect-SNIST">
+
+
+<meta itemprop="url" content="https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/viewform">
+<meta itemprop="embedUrl" content="https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/viewform?embedded=true">
+<meta itemprop="faviconUrl" content="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png">
+
+
+
+
+
+<div class="ss-form-container"><div class="ss-header-image-container"><div class="ss-header-image-image"><div class="ss-header-image-sizer"></div></div></div>
+<div class="ss-top-of-page"><div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr">The Campus Connect-SNIST</h1>
+
+
+<div class="ss-required-asterisk" aria-hidden="true">* Required</div></div></div>
+<div class="ss-form"><form action="https://docs.google.com/forms/d/1IkBbX90WpWIcXv_LusXr5hxmbnY6jNPOIa6-IWTRh0o/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_555232373"><div class="ss-q-title">Full name :
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.555232373" value="" class="ss-q-short" id="entry_555232373" dir="auto" aria-label="Full name :  " aria-required="true" required="" title="">
+<div class="error-message" id="170305524_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_268426280"><div class="ss-q-title">DOB
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.268426280" value="" class="ss-q-short" id="entry_268426280" dir="auto" aria-label="DOB  " aria-required="true" required="" title="">
+<div class="error-message" id="1070025029_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2032200876"><div class="ss-q-title">Phone number :
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.2032200876" value="" class="ss-q-short" id="entry_2032200876" dir="auto" aria-label="Phone number :  " aria-required="true" required="" title="">
+<div class="error-message" id="1127639797_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1924969984"><div class="ss-q-title">Year:
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="Year:  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1745925753" value="First year" id="group_1745925753_1" role="radio" class="ss-q-radio" aria-label="First year" required="" aria-required="true"></span>
+<span class="ss-choice-label">First year</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1745925753" value="Second year" id="group_1745925753_2" role="radio" class="ss-q-radio" aria-label="Second year" required="" aria-required="true"></span>
+<span class="ss-choice-label">Second year</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1745925753" value="Third year" id="group_1745925753_3" role="radio" class="ss-q-radio" aria-label="Third year" required="" aria-required="true"></span>
+<span class="ss-choice-label">Third year</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1745925753" value="Fourth year" id="group_1745925753_4" role="radio" class="ss-q-radio" aria-label="Fourth year" required="" aria-required="true"></span>
+<span class="ss-choice-label">Fourth year</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1745925753" value="__other_option__" id="group_1745925753_5" role="radio" class="ss-q-radio ss-q-other-toggle" required="" aria-required="true"></span>
+<span class="ss-choice-label">Other:</span></label>
+<span class="ss-q-other-container goog-inline-block"><input type="text" name="entry.1745925753.other_option_response" value="" class="ss-q-other" id="entry_1745925753_other_option_response" dir="auto" aria-label="Other"></span>
+</li></ul>
+<div class="error-message" id="1924969984_errorMessage"></div>
+<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_956068813"><div class="ss-q-title">Gmail address :
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.956068813" value="" class="ss-q-short" id="entry_956068813" dir="auto" aria-label="Gmail address :  " aria-required="true" required="" title="">
+<div class="error-message" id="55192919_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_800087991"><div class="ss-q-title">Facebook profile id :
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.800087991" value="" class="ss-q-short" id="entry_800087991" dir="auto" aria-label="Facebook profile id :  " aria-required="true" required="" title="">
+<div class="error-message" id="1155004730_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_253637512"><div class="ss-q-title">Branch
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="Branch  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="Bio technology" id="group_343048546_1" role="radio" class="ss-q-radio" aria-label="Bio technology" required="" aria-required="true"></span>
+<span class="ss-choice-label">Bio technology</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="EEE" id="group_343048546_2" role="radio" class="ss-q-radio" aria-label="EEE" required="" aria-required="true"></span>
+<span class="ss-choice-label">EEE</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="ECE" id="group_343048546_3" role="radio" class="ss-q-radio" aria-label="ECE" required="" aria-required="true"></span>
+<span class="ss-choice-label">ECE</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="IT" id="group_343048546_4" role="radio" class="ss-q-radio" aria-label="IT" required="" aria-required="true"></span>
+<span class="ss-choice-label">IT</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="CSE" id="group_343048546_5" role="radio" class="ss-q-radio" aria-label="CSE" required="" aria-required="true"></span>
+<span class="ss-choice-label">CSE</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="ECM" id="group_343048546_6" role="radio" class="ss-q-radio" aria-label="ECM" required="" aria-required="true"></span>
+<span class="ss-choice-label">ECM</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.343048546" value="Mech." id="group_343048546_7" role="radio" class="ss-q-radio" aria-label="Mech." required="" aria-required="true"></span>
+<span class="ss-choice-label">Mech.</span>
+</label></li></ul>
+<div class="error-message" id="253637512_errorMessage"></div>
+<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_424520906"><div class="ss-q-title">Category interested in : (maximum 1)
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="Category interested in : (maximum 1)  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Content writers" id="group_838552484_1" role="radio" class="ss-q-radio" aria-label="Content writers" required="" aria-required="true"></span>
+<span class="ss-choice-label">Content writers</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Editor" id="group_838552484_2" role="radio" class="ss-q-radio" aria-label="Editor" required="" aria-required="true"></span>
+<span class="ss-choice-label">Editor</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Photographers" id="group_838552484_3" role="radio" class="ss-q-radio" aria-label="Photographers" required="" aria-required="true"></span>
+<span class="ss-choice-label">Photographers</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Marketing and social media team" id="group_838552484_4" role="radio" class="ss-q-radio" aria-label="Marketing and social media team" required="" aria-required="true"></span>
+<span class="ss-choice-label">Marketing and social media team</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Human resources" id="group_838552484_5" role="radio" class="ss-q-radio" aria-label="Human resources" required="" aria-required="true"></span>
+<span class="ss-choice-label">Human resources</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Web/app developers" id="group_838552484_6" role="radio" class="ss-q-radio" aria-label="Web/app developers" required="" aria-required="true"></span>
+<span class="ss-choice-label">Web/app developers</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Sponsorship team" id="group_838552484_7" role="radio" class="ss-q-radio" aria-label="Sponsorship team" required="" aria-required="true"></span>
+<span class="ss-choice-label">Sponsorship team</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Print and media team" id="group_838552484_8" role="radio" class="ss-q-radio" aria-label="Print and media team" required="" aria-required="true"></span>
+<span class="ss-choice-label">Print and media team</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Public relations" id="group_838552484_9" role="radio" class="ss-q-radio" aria-label="Public relations" required="" aria-required="true"></span>
+<span class="ss-choice-label">Public relations</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.838552484" value="Video bloggers" id="group_838552484_10" role="radio" class="ss-q-radio" aria-label="Video bloggers" required="" aria-required="true"></span>
+<span class="ss-choice-label">Video bloggers</span>
+</label></li></ul>
+<div class="error-message" id="424520906_errorMessage"></div>
+<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1913424921"><div class="ss-q-title">Your past achievements in that field ? (If any)
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1913424921" rows="8" cols="0" class="ss-q-long" id="entry_1913424921" dir="auto" aria-label="Your past achievements in that field ? (If any)  " aria-required="true" required=""></textarea>
+<div class="error-message" id="33252682_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_69959814"><div class="ss-q-title">How did you come to know about The Campus Connect (TCC) ?
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="How did you come to know about The Campus Connect (TCC) ?  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2128783991" value="Friends" id="group_2128783991_1" role="radio" class="ss-q-radio" aria-label="Friends" required="" aria-required="true"></span>
+<span class="ss-choice-label">Friends</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2128783991" value="Facebook" id="group_2128783991_2" role="radio" class="ss-q-radio" aria-label="Facebook" required="" aria-required="true"></span>
+<span class="ss-choice-label">Facebook</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2128783991" value="Other social networking sites" id="group_2128783991_3" role="radio" class="ss-q-radio" aria-label="Other social networking sites" required="" aria-required="true"></span>
+<span class="ss-choice-label">Other social networking sites</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2128783991" value="__other_option__" id="group_2128783991_4" role="radio" class="ss-q-radio ss-q-other-toggle" required="" aria-required="true"></span>
+<span class="ss-choice-label">Other:</span></label>
+<span class="ss-q-other-container goog-inline-block"><input type="text" name="entry.2128783991.other_option_response" value="" class="ss-q-other" id="entry_2128783991_other_option_response" dir="auto" aria-label="Other"></span>
+</li></ul>
+<div class="error-message" id="69959814_errorMessage"></div>
+<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1578308451"><div class="ss-q-title">
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1578308451" value="" class="ss-q-short" id="entry_1578308451" dir="auto" aria-label="  " title="">
+<div class="error-message" id="577623113_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_273621964"><div class="ss-q-title">What do you expect from TCC?
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.273621964" rows="8" cols="0" class="ss-q-long" id="entry_273621964" dir="auto" aria-label="What do you expect from TCC?  "></textarea>
+<div class="error-message" id="920282466_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div>
+<input type="hidden" name="draftResponse" value="[,,&quot;-3709412318932078333&quot;]
+">
+<input type="hidden" name="pageHistory" value="0">
